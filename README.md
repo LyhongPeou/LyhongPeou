@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **The Cloud Resume Challenge**
 
-- 👨‍💻 All of my projects are available at [htpps://lyhong.dev](htpps://lyhong.dev)
+- 👨‍💻 All of my projects are available at [lyhong.dev](lyhong.dev)
 
 - 📫 How to reach me **peoulyhong@gmail.com**
 
